@@ -10,5 +10,5 @@ create table news_inf
 
 insert into news_inf
 values
-(null , '·è¿ñJavaÁªÃË'),
+(null , 'ç–¯ç‹‚Javaè”ç›Ÿ'),
 (null , 'crazyit.org');
